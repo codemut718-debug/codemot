@@ -1,0 +1,16 @@
+[Market / News / Macro Data]
+          ↓
+[Feature Engineering & Normalization]
+          ↓
+[LSTM | Transformer | XGBoost | CNN]
+          ↓
+[Signal Vector & Confidence Scores]
+          ↓
+[Market Regime Detection]
+          ↓
+[Reinforcement Learning Policy]
+          ↓
+[Trade Execution]
+          ↓
+[Reward & Feedback]
+          ↺ (Continuous Learning)
